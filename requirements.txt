@@ -1,0 +1,3 @@
+fastapi                 # FastAPI web framework
+uvicorn                # ASGI server to run the FastAPI app
+mysql-connector-python # MySQL connector for Python
